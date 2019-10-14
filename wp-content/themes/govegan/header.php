@@ -36,7 +36,7 @@
                 ) ); ?>
                 <div class="block_right">
                     <a class="phone" href="tel:<?php echo get_option('theme_contacttext')?>"><?php echo get_option('site_telephone')?></a
-                    ><a class="phone_mob" href="tel:+17003254245"><i class="fa fa-phone" aria-hidden="true"></i></a
+                    ><a class="phone_mob" href="tel:<?php echo get_option('theme_contacttext')?>"><i class="fa fa-phone" aria-hidden="true"></i></a
                     ><button class="header__btn btn">Ask a question</button>
                 </div>
             </div>

@@ -46,23 +46,6 @@
         'menu_class'      => 'mobile_menu__menu',
         'depth'           => 2
     ) ); ?>
-<!--    <nav class="mob__block_nav">-->
-<!--        <ul class="mobile_menu__menu">-->
-<!--            <li class="mob_sub__menu">-->
-<!--                <a href="#">Natural food<i class="fa fa-angle-left" aria-hidden="true"></i></a>-->
-<!--                <ul class="mobile_menu__sub_menu__menu">-->
-<!--                    <li><a href="#">Rainbow "Raw-Maine" Taco Boats</a></li>-->
-<!--                    <li><a href="#">Vegan Spinach and Mushroom Pasta</a></li>-->
-<!--                    <li><a href="#">Tokio Splash Plate</a></li>-->
-<!--                    <li><a href="#">Thai Green Gurry</a></li>-->
-<!--                    <li><a href="#">Vegan Avocado Plate</a></li>-->
-<!--                    <li><a href="#">Spinach Thai Green Curry</a></li>-->
-<!--                </ul>-->
-<!--            </li>-->
-<!--            <li><a href="#">Lifestyle</a></li>-->
-<!--            <li><a href="#">Contacts</a></li>-->
-<!--        </ul>-->
-<!--    </nav>-->
 </div>
 </div>
 <?php wp_footer(); ?>
